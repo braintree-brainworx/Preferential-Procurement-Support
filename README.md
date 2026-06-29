@@ -1,2 +1,0 @@
-# Preferential Procurement
-The Preferential Procurement extension allows companies to categorize their suppliers and spending on procurement according to the Preferential Procurement section of the South African legislation on Broad-Based Black Economic Empowerment.

@@ -1,3 +1,9 @@
+---
+layout: NewLayout
+title: Preferential Procurement
+description: Support and documentation for Braintree's Preferential Procurement extension to Microsoft Dynamics 365 Business Central
+---
+
 # Installation and Setup
 
 ## Installation from App Source
