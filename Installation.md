@@ -34,7 +34,7 @@ You can also access the page from Assisted Setup:
 
 or from the Purchases and Payables Setup page.  From the Actions menu, select Preferential Procurement:
 
- ![alt text](/images/OpenFromPP.png)
+ ![alt text](Screenshots/OpenFromPP.png)
 
 From the Preferential Procurement Setup page, select 'Request Registration':
 
