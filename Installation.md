@@ -38,7 +38,7 @@ or from the Purchases and Payables Setup page.  From the Actions menu, select Pr
 
 From the Preferential Procurement Setup page, select 'Request Registration':
 
-![alt text](Screenshots/image-1.png)
+![alt text](Screenshots/RequestLicence.png)
 
 A message will be sent to the Braintree Support desk. A licence key will be returned to you via email.
 

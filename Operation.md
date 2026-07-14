@@ -34,4 +34,4 @@ Select Preferential Procurement Statistics to review on the screen.
 
 The report will open. You can use standard Business Central analysis mode to examine the data.
 
-![alt text](/images/stats.png)
+![alt text](/images/Stats.png)
