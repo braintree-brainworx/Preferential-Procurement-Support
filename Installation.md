@@ -9,7 +9,7 @@ description: Support and documentation for Braintree's Preferential Procurement 
 ## Installation from App Source
 Open Business Central.
 Search for Extension Management, and open the link.
-From the Extension management page, click on 'Appsource Gallery'.
+From the Extension management page, click on 'AppSource Gallery'.
 
 ![alt text](/images/AppSourceGallery.png)
  
@@ -21,27 +21,30 @@ Click on the application name. From the App overview page, click on Install App:
 
 ![alt text](/images/InstallApp.png)
 
-When the 'Install Extension' dialog appears, click on Install:
+When the 'Install Extension' dialogue appears, click on Install:
 
 ![alt text](/images/InstallExtension.png)
 
 ### Licence registration
-Go to Purchases and Payables Setup.  From the Actions menu, select Preferential Procurement:
+If your installation from AppSource is successful, the Preferential Procurement page will open.
+
+You can also access the page from Assisted Setup:  
+
+![alt text](Screenshots/AssistedSetup.png)
+
+or from the Purchases and Payables Setup page.  From the Actions menu, select Preferential Procurement:
 
  ![alt text](/images/OpenFromPP.png)
 
-Click on ‘Register Product’:
- 
-![alt text](/images/RegisterProduct.png)
+From the Preferential Procurement Setup page, select 'Request Registration':
 
-Select the product from the list. Enter your email address. Click on ‘Request Subscription/Trial License’:A 
-
-![alt text](/images/RequestLicence.png) 
+![alt text](Screenshots/image-1.png)
 
 A message will be sent to the Braintree Support desk. A licence key will be returned to you via email.
-On the same page, select ‘Update licence key’. In the dialog box, paste the key provided to you, then click OK:
 
- ![alt text](/images/UpdateLicence.png)
+On the same page, select 'Activate License'. In the dialogue box, paste the key provided to you, then click OK:
+
+ ![alt text](Screenshots/UpdateLicence.png)
 
 Your app is now ready to use.
 
@@ -50,3 +53,7 @@ From the Preferential Procurement setup page, you can optionally create default 
 
  ![alt text](/images/Setup.png)
 
+### Set Measurement Period
+On the Setup page, you can set the starting and ending dates of your current B-BBEE cycle. These dates are used to calculate the preferential procurement spend on your vendors.
+
+![alt text](Screenshots/image.png)
