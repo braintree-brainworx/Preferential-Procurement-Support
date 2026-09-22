@@ -51,9 +51,18 @@ Your app is now ready to use.
 ### Set up default options
 From the Preferential Procurement setup page, you can optionally create default initial values for Scorecard Type, Procurement Category and Contribution Level.  These will be used as defaults for new vendors:
 
- ![alt text](/images/Setup.png)
+![alt text](Screenshots/image-1.png)
 
 ### Set Measurement Period
 On the Setup page, you can set the starting and ending dates of your current B-BBEE cycle. These dates are used to calculate the preferential procurement spend on your vendors.
 
-![alt text](Screenshots/image.png)
+![alt text](Screenshots/image-2.png)
+
+### Set up Workflow for new B-BBEE certificates
+You can optionally run approval workflows on new documents. 
+
+From the Preferential Procurement setup, select Actions -> Create Workflow:
+
+![alt text](Screenshots/image-3.png)
+
+A new workflow template will be created. Use this to set up the specific approval process that is required. 
