@@ -34,7 +34,11 @@ Each new entry is allocated a unique document number. The new entry will be popu
 
 If the supplier's certificate is in readable PDF format, you may be able to load the data directly from the document Click on 'Import data from PDF', and select the stored file. If the system is able to read the file, the details will be entered into the page. Verify the details before continuing.
 
-    PDF import has been tested with HoneyBEE, EmpowerDex and EmpowerLogic. Certificates issued by other B-BBEE auditors may not work reliably.
+    PDF import has been tested with 
+    - HoneyBEE 
+    - EmpowerDex 
+    - EmpowerLogic 
+    Certificates issued by other B-BBEE auditors may not work reliably.
 
 If you have configured an approval workflow for preferential procurement updates, click on 'Request Approval'. This will trigger the workflow process. If no workflow is in place, click on 'Approve'.
 
